@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/balivo/AndroidStudioProjects/FragmentBasics/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/balivo/AndroidStudioProjects/FragmentBasics/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "642",
+                        "endColumns": "52",
+                        "endOffsets": "690"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                }
+            ]
+        }
+    ]
+}
